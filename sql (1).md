@@ -32,12 +32,6 @@ En caso de error:
 
 <img src="fotos/7.png" style="width:600px;" >
 
-
-```python
-
-```
-
-
-```python
-
-```
+- [II.	DDL: Data Definition Language](https://mayanda159.github.io/prueba/sql2.html)
+- [III.	DML: Data Manipulation Language](https://mayanda159.github.io/prueba/sql3.html)
+- [IV.	Consultas Condicionales](https://mayanda159.github.io/prueba/sql4.html)
